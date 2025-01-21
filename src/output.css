@@ -655,6 +655,11 @@ video {
   background-color: rgb(254 242 229 / var(--tw-bg-opacity, 1));
 }
 
+.bg-\[\#FBE7E8\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(251 231 232 / var(--tw-bg-opacity, 1));
+}
+
 .p-1 {
   padding: 0.25rem;
 }
@@ -733,6 +738,11 @@ video {
 .text-\[\#CD6200\] {
   --tw-text-opacity: 1;
   color: rgb(205 98 0 / var(--tw-text-opacity, 1));
+}
+
+.text-\[\#A30D11\] {
+  --tw-text-opacity: 1;
+  color: rgb(163 13 17 / var(--tw-text-opacity, 1));
 }
 
 .outline-none {
